@@ -1,5 +1,5 @@
 # crypto_investments
-This jupyter notebook will use unsupervised machine learning to find novel ways of aggregating cryptocurrences to acheive better relative performance
+This jupyter notebook will use unsupervised machine learning to find novel ways of aggregating cryptocurrencies to achieve better relative performance
 
 
 ---
